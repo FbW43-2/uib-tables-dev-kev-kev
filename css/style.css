@@ -1,0 +1,28 @@
+table {
+  margin: 20px;
+}
+
+thead {
+  background-color: rgb(86, 202, 92, 0.4);
+}
+
+table,
+th,
+td {
+  border: 5px solid rgb(68, 66, 66);
+  padding: 20px;
+  border-collapse: collapse;
+}
+
+h1 {
+  margin: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
